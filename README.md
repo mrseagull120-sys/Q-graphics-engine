@@ -1,2 +1,4 @@
 # Q-graphics-engine
-graphics engine project
+
+Q graphics engine version 1.0
+STILL GETS UPDATED
